@@ -1,0 +1,3829 @@
+<?xml version='1.0' encoding='ASCII'?>
+<project xmlns="http://www.scia.cz">
+   
+   <def uri="first.xml.def"/>
+   
+   <container id="{39A7F468-A0D4-4DFF-8E5C-5843E1807D13}" t="EP_DSG_Elements.EP_StructNode.1">
+      <table id="1C8BC5D0-D071-4F21-AB4C-C5DD65A96257" t="EP_DSG_Elements.EP_StructNode.1" name="Node">
+         <h>
+            <h0 t="Name"/>
+            <h1 t="Coord X"/>
+            <h2 t="Coord Y"/>
+            <h3 t="Coord Z"/></h>
+         <obj id="1" nm="N1">
+            <p0 v="N1"/>
+            <p1 v="6"/>
+            <p2 v="0"/>
+            <p3 v="0"/></obj>
+         
+         <obj id="2" nm="N2">
+            <p0 v="N2"/>
+            <p1 v="6"/>
+            <p2 v="0"/>
+            <p3 v="3.6000000000000001"/></obj>
+         
+         <obj id="3" nm="N3">
+            <p0 v="N3"/>
+            <p1 v="6"/>
+            <p2 v="6"/>
+            <p3 v="0"/></obj>
+         
+         <obj id="4" nm="N4">
+            <p0 v="N4"/>
+            <p1 v="6"/>
+            <p2 v="6"/>
+            <p3 v="3.6000000000000001"/></obj>
+         
+         <obj id="5" nm="N5">
+            <p0 v="N5"/>
+            <p1 v="0"/>
+            <p2 v="6"/>
+            <p3 v="0"/></obj>
+         
+         <obj id="6" nm="N6">
+            <p0 v="N6"/>
+            <p1 v="0"/>
+            <p2 v="6"/>
+            <p3 v="3.6000000000000001"/></obj>
+         
+         <obj id="7" nm="N7">
+            <p0 v="N7"/>
+            <p1 v="0"/>
+            <p2 v="0"/>
+            <p3 v="0"/></obj>
+         
+         <obj id="8" nm="N8">
+            <p0 v="N8"/>
+            <p1 v="0"/>
+            <p2 v="0"/>
+            <p3 v="3.6000000000000001"/></obj>
+         
+         <obj id="9" nm="N9">
+            <p0 v="N9"/>
+            <p1 v="12"/>
+            <p2 v="0"/>
+            <p3 v="0"/></obj>
+         
+         <obj id="10" nm="N10">
+            <p0 v="N10"/>
+            <p1 v="12"/>
+            <p2 v="0"/>
+            <p3 v="3.6000000000000001"/></obj>
+         
+         <obj id="11" nm="N11">
+            <p0 v="N11"/>
+            <p1 v="12"/>
+            <p2 v="6"/>
+            <p3 v="0"/></obj>
+         
+         <obj id="12" nm="N12">
+            <p0 v="N12"/>
+            <p1 v="12"/>
+            <p2 v="6"/>
+            <p3 v="3.6000000000000001"/></obj>
+         
+         <obj id="13" nm="N13">
+            <p0 v="N13"/>
+            <p1 v="6"/>
+            <p2 v="0"/>
+            <p3 v="7.2000000000000002"/></obj>
+         
+         <obj id="14" nm="N14">
+            <p0 v="N14"/>
+            <p1 v="6"/>
+            <p2 v="6"/>
+            <p3 v="7.2000000000000002"/></obj>
+         
+         <obj id="15" nm="N15">
+            <p0 v="N15"/>
+            <p1 v="0"/>
+            <p2 v="6"/>
+            <p3 v="7.2000000000000002"/></obj>
+         
+         <obj id="16" nm="N16">
+            <p0 v="N16"/>
+            <p1 v="0"/>
+            <p2 v="0"/>
+            <p3 v="7.2000000000000002"/></obj>
+         
+         <obj id="17" nm="N17">
+            <p0 v="N17"/>
+            <p1 v="12"/>
+            <p2 v="0"/>
+            <p3 v="7.2000000000000002"/></obj>
+         
+         <obj id="18" nm="N18">
+            <p0 v="N18"/>
+            <p1 v="12"/>
+            <p2 v="6"/>
+            <p3 v="7.2000000000000002"/></obj>
+         
+         <obj id="19" nm="N19">
+            <p0 v="N19"/>
+            <p1 v="6"/>
+            <p2 v="0"/>
+            <p3 v="10.800000000000001"/></obj>
+         
+         <obj id="20" nm="N20">
+            <p0 v="N20"/>
+            <p1 v="6"/>
+            <p2 v="6"/>
+            <p3 v="10.800000000000001"/></obj>
+         
+         <obj id="21" nm="N21">
+            <p0 v="N21"/>
+            <p1 v="0"/>
+            <p2 v="6"/>
+            <p3 v="10.800000000000001"/></obj>
+         
+         <obj id="22" nm="N22">
+            <p0 v="N22"/>
+            <p1 v="0"/>
+            <p2 v="0"/>
+            <p3 v="10.800000000000001"/></obj>
+         
+         <obj id="23" nm="N23">
+            <p0 v="N23"/>
+            <p1 v="12"/>
+            <p2 v="0"/>
+            <p3 v="10.800000000000001"/></obj>
+         
+         <obj id="24" nm="N24">
+            <p0 v="N24"/>
+            <p1 v="12"/>
+            <p2 v="6"/>
+            <p3 v="10.800000000000001"/></obj>
+         
+         <obj id="25" nm="N25">
+            <p0 v="N25"/>
+            <p1 v="3.17528758859287"/>
+            <p2 v="2.9717602290836198"/>
+            <p3 v="3.6000000000000001"/></obj>
+         
+         <obj id="26" nm="N26">
+            <p0 v="N26"/>
+            <p1 v="9.03820547843541"/>
+            <p2 v="3.32962841121866"/>
+            <p3 v="7.2000000000000002"/></obj>
+         
+         <obj id="27" nm="N27">
+            <p0 v="N27"/>
+            <p1 v="0.80215788538814004"/>
+            <p2 v="0.58019429954594004"/>
+            <p3 v="10.800000000000001"/></obj>
+      </table>
+   </container>
+   
+   <container id="{ECB5D684-7357-11D4-9F6C-00104BC3B443}" t="EP_DSG_Elements.EP_Beam.1">
+      <table id="50C9CF6E-CEC4-4739-B8C1-F4E286643631" t="EP_DSG_Elements.EP_Beam.1" name="Member 1D">
+         <h>
+            <h0 t="Name"/>
+            <h1 t="Layer"/>
+            <h2 t="Beg. node"/>
+            <h3 t="End node"/>
+            <h4 t="Cross-section"/>
+            <h5 t="FEM type"/>
+            <h6 t="Member system-line at"/>
+            <h7 t="ey"/>
+            <h8 t="ez"/>
+            <h9 t="Table of geometry"/></h>
+         <obj id="1" nm="B1">
+            <p0 v="B1"/>
+            <p1 i="1" n="Layer1"/>
+            <p2 i="1" n="N1"/>
+            <p3 i="2" n="N2"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="1" n="N1"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="2" n="N2"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="2" nm="B2">
+            <p0 v="B2"/>
+            <p1 i="1" n="Layer1"/>
+            <p2 i="3" n="N3"/>
+            <p3 i="4" n="N4"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="3" n="N3"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="4" n="N4"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="3" nm="B3">
+            <p0 v="B3"/>
+            <p1 i="1" n="Layer1"/>
+            <p2 i="5" n="N5"/>
+            <p3 i="6" n="N6"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="5" n="N5"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="6" n="N6"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="4" nm="B4">
+            <p0 v="B4"/>
+            <p1 i="1" n="Layer1"/>
+            <p2 i="7" n="N7"/>
+            <p3 i="8" n="N8"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="7" n="N7"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="8" n="N8"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="5" nm="B5">
+            <p0 v="B5"/>
+            <p1 i="1" n="Layer1"/>
+            <p2 i="9" n="N9"/>
+            <p3 i="10" n="N10"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="9" n="N9"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="10" n="N10"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="6" nm="B6">
+            <p0 v="B6"/>
+            <p1 i="1" n="Layer1"/>
+            <p2 i="11" n="N11"/>
+            <p3 i="12" n="N12"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="11" n="N11"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="12" n="N12"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="7" nm="B7">
+            <p0 v="B7"/>
+            <p1 i="2" n="Layer2"/>
+            <p2 i="2" n="N2"/>
+            <p3 i="13" n="N13"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="2" n="N2"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="13" n="N13"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="8" nm="B8">
+            <p0 v="B8"/>
+            <p1 i="2" n="Layer2"/>
+            <p2 i="4" n="N4"/>
+            <p3 i="14" n="N14"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="4" n="N4"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="14" n="N14"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="9" nm="B9">
+            <p0 v="B9"/>
+            <p1 i="2" n="Layer2"/>
+            <p2 i="6" n="N6"/>
+            <p3 i="15" n="N15"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="6" n="N6"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="15" n="N15"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="10" nm="B10">
+            <p0 v="B10"/>
+            <p1 i="2" n="Layer2"/>
+            <p2 i="8" n="N8"/>
+            <p3 i="16" n="N16"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="8" n="N8"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="16" n="N16"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="11" nm="B11">
+            <p0 v="B11"/>
+            <p1 i="2" n="Layer2"/>
+            <p2 i="10" n="N10"/>
+            <p3 i="17" n="N17"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="10" n="N10"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="17" n="N17"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="12" nm="B12">
+            <p0 v="B12"/>
+            <p1 i="2" n="Layer2"/>
+            <p2 i="12" n="N12"/>
+            <p3 i="18" n="N18"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="12" n="N12"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="18" n="N18"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="13" nm="B13">
+            <p0 v="B13"/>
+            <p1 i="3" n="Layer3"/>
+            <p2 i="13" n="N13"/>
+            <p3 i="19" n="N19"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="13" n="N13"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="19" n="N19"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="14" nm="B14">
+            <p0 v="B14"/>
+            <p1 i="3" n="Layer3"/>
+            <p2 i="14" n="N14"/>
+            <p3 i="20" n="N20"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="14" n="N14"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="20" n="N20"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="15" nm="B15">
+            <p0 v="B15"/>
+            <p1 i="3" n="Layer3"/>
+            <p2 i="15" n="N15"/>
+            <p3 i="21" n="N21"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="15" n="N15"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="21" n="N21"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="16" nm="B16">
+            <p0 v="B16"/>
+            <p1 i="3" n="Layer3"/>
+            <p2 i="16" n="N16"/>
+            <p3 i="22" n="N22"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="16" n="N16"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="22" n="N22"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="17" nm="B17">
+            <p0 v="B17"/>
+            <p1 i="3" n="Layer3"/>
+            <p2 i="17" n="N17"/>
+            <p3 i="23" n="N23"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="17" n="N17"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="23" n="N23"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="18" nm="B18">
+            <p0 v="B18"/>
+            <p1 i="3" n="Layer3"/>
+            <p2 i="18" n="N18"/>
+            <p3 i="24" n="N24"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="18" n="N18"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="24" n="N24"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="19" nm="B19">
+            <p0 v="B19"/>
+            <p1 i="1" n="Layer1"/>
+            <p2 i="8" n="N8"/>
+            <p3 i="6" n="N6"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="8" n="N8"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="6" n="N6"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="20" nm="B20">
+            <p0 v="B20"/>
+            <p1 i="2" n="Layer2"/>
+            <p2 i="16" n="N16"/>
+            <p3 i="15" n="N15"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="16" n="N16"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="15" n="N15"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="21" nm="B21">
+            <p0 v="B21"/>
+            <p1 i="3" n="Layer3"/>
+            <p2 i="22" n="N22"/>
+            <p3 i="21" n="N21"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="22" n="N22"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="21" n="N21"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="22" nm="B22">
+            <p0 v="B22"/>
+            <p1 i="3" n="Layer3"/>
+            <p2 i="19" n="N19"/>
+            <p3 i="20" n="N20"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="19" n="N19"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="20" n="N20"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="23" nm="B23">
+            <p0 v="B23"/>
+            <p1 i="2" n="Layer2"/>
+            <p2 i="13" n="N13"/>
+            <p3 i="14" n="N14"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="13" n="N13"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="14" n="N14"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="24" nm="B24">
+            <p0 v="B24"/>
+            <p1 i="1" n="Layer1"/>
+            <p2 i="2" n="N2"/>
+            <p3 i="4" n="N4"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="2" n="N2"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="4" n="N4"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="25" nm="B25">
+            <p0 v="B25"/>
+            <p1 i="1" n="Layer1"/>
+            <p2 i="10" n="N10"/>
+            <p3 i="12" n="N12"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="10" n="N10"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="12" n="N12"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="26" nm="B26">
+            <p0 v="B26"/>
+            <p1 i="2" n="Layer2"/>
+            <p2 i="17" n="N17"/>
+            <p3 i="18" n="N18"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="17" n="N17"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="18" n="N18"/>
+            </row>
+            </p9></obj>
+         
+         <obj id="27" nm="B27">
+            <p0 v="B27"/>
+            <p1 i="3" n="Layer3"/>
+            <p2 i="23" n="N23"/>
+            <p3 i="24" n="N24"/>
+            <p4 i="1" n="CS1 - Rectangle (400; 300)"/>
+            <p5 v="0" t="standard"/>
+            <p6 v="1" t="Centre"/>
+            <p7 v="0"/>
+            <p8 v="0"/>
+            <p9 t="">
+            <h>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p1 i="23" n="N23"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="24" n="N24"/>
+            </row>
+            </p9></obj>
+      </table>
+   </container>
+   
+   <container id="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}" t="EP_DSG_Elements.EP_Plane.1">
+      <table id="CBBCF244-4560-4638-AB99-07760A8F0DEA" t="EP_DSG_Elements.EP_Plane.1" name="Member 2D">
+         <h>
+            <h0 t="Internal nodes"/>
+            <h1 t="Name"/>
+            <h2 t="UniqueID"/>
+            <h3 t="Layer"/>
+            <h4 t="Type"/>
+            <h5 t="Element type"/>
+            <h6 t="Element behaviour"/>
+            <h7 t="Material"/>
+            <h8 t="FEM model"/>
+            <h9 t="FEM nonlinear model"/>
+            <h10 t="Thickness type"/>
+            <h11 t="Thickness"/>
+            <h12 t="Member system-plane at"/>
+            <h13 t="Eccentricity z"/>
+            <h14 t="LCS type"/>
+            <h15 t="Swap orientation"/>
+            <h16 t="LCS angle"/>
+            <h17 t="Mode"/>
+            <h18 t="Priority definition"/>
+            <h19 t="Priority value"/>
+            <h20 t="Perp. alignment"/>
+            <h21 t="Eccentricity z"/>
+            <h22 t="Type"/>
+            <h23 t="Panel area"/>
+            <h24 t="3D Wind"/>
+            <h25 t="Table of geometry"/></h>
+         <obj id="1" nm="S1">
+            <p0 t="">
+            <h>
+            <h0 t="Index"/>
+            <h1 t="Node"/>
+            </h>
+            <row id="1">
+            <p0 v="1"/>
+            <p1 i="25" n="N25"/>
+            </row>
+            </p0>
+            <p1 v="S1"/>
+            <p2 v="{4AFE2C5D-BBA7-4DFD-82F9-2BE25D3EDB9B}"/>
+            <p3 i="1" n="Layer1"/>
+            <p4 v="0" t="plate (111)"/>
+            <p5 v="1" t="Standard"/>
+            <p6 v="0" t="Standard FEM"/>
+            <p7 i="318" n="C25/30"/>
+            <p8 v="0" t="Isotropic"/>
+            <p9 v="0" t="none"/>
+            <p10 v="0" t="constant"/>
+            <p11 v="0.20000000000000001"/>
+            <p12 v="1" t="Centre"/>
+            <p13 v="0"/>
+            <p14 v="0" t="Standard"/>
+            <p15 v="0"/>
+            <p16 v="0"/>
+            <p17 v="1" t="Manual"/>
+            <p18 v="0" t="according to member"/>
+            <p19 v="111"/>
+            <p20 v="9" t="default"/>
+            <p21 v="0"/>
+            <p22 v="0" t="Whole member"/>
+            <p23 v="36"/>
+            <p24 v="0"/>
+            <p25 t="">
+            <h>
+            <h0 t="Closed curve"/>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1"/>
+            <p1 i="8" n="N8"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="2" n="N2"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p1 i="4" n="N4"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p1 i="6" n="N6"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            </p25></obj>
+         
+         <obj id="2" nm="S2">
+            <p0 t="">
+            <h/>
+            </p0>
+            <p1 v="S2"/>
+            <p2 v="{028209FD-4607-4226-8925-08025E553AC7}"/>
+            <p3 i="1" n="Layer1"/>
+            <p4 v="0" t="plate (111)"/>
+            <p5 v="1" t="Standard"/>
+            <p6 v="0" t="Standard FEM"/>
+            <p7 i="318" n="C25/30"/>
+            <p8 v="0" t="Isotropic"/>
+            <p9 v="0" t="none"/>
+            <p10 v="0" t="constant"/>
+            <p11 v="0.20000000000000001"/>
+            <p12 v="1" t="Centre"/>
+            <p13 v="0"/>
+            <p14 v="0" t="Standard"/>
+            <p15 v="0"/>
+            <p16 v="0"/>
+            <p17 v="1" t="Manual"/>
+            <p18 v="0" t="according to member"/>
+            <p19 v="111"/>
+            <p20 v="9" t="default"/>
+            <p21 v="0"/>
+            <p22 v="0" t="Whole member"/>
+            <p23 v="36"/>
+            <p24 v="0"/>
+            <p25 t="">
+            <h>
+            <h0 t="Closed curve"/>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1"/>
+            <p1 i="4" n="N4"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="12" n="N12"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p1 i="10" n="N10"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p1 i="2" n="N2"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            </p25></obj>
+         
+         <obj id="3" nm="S3">
+            <p0 t="">
+            <h/>
+            </p0>
+            <p1 v="S3"/>
+            <p2 v="{A3498856-85F1-4A89-AEED-CEF37A311A69}"/>
+            <p3 i="1" n="Layer1"/>
+            <p4 v="0" t="plate (111)"/>
+            <p5 v="1" t="Standard"/>
+            <p6 v="0" t="Standard FEM"/>
+            <p7 i="318" n="C25/30"/>
+            <p8 v="0" t="Isotropic"/>
+            <p9 v="0" t="none"/>
+            <p10 v="0" t="constant"/>
+            <p11 v="0.20000000000000001"/>
+            <p12 v="1" t="Centre"/>
+            <p13 v="0"/>
+            <p14 v="0" t="Standard"/>
+            <p15 v="0"/>
+            <p16 v="0"/>
+            <p17 v="1" t="Manual"/>
+            <p18 v="0" t="according to member"/>
+            <p19 v="111"/>
+            <p20 v="9" t="default"/>
+            <p21 v="0"/>
+            <p22 v="0" t="Whole member"/>
+            <p23 v="36"/>
+            <p24 v="0"/>
+            <p25 t="">
+            <h>
+            <h0 t="Closed curve"/>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1"/>
+            <p1 i="16" n="N16"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="13" n="N13"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p1 i="14" n="N14"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p1 i="15" n="N15"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            </p25></obj>
+         
+         <obj id="4" nm="S4">
+            <p0 t="">
+            <h>
+            <h0 t="Index"/>
+            <h1 t="Node"/>
+            </h>
+            <row id="1">
+            <p0 v="1"/>
+            <p1 i="26" n="N26"/>
+            </row>
+            </p0>
+            <p1 v="S4"/>
+            <p2 v="{5756E760-704C-436A-9ADD-0218C791025E}"/>
+            <p3 i="1" n="Layer1"/>
+            <p4 v="0" t="plate (111)"/>
+            <p5 v="1" t="Standard"/>
+            <p6 v="0" t="Standard FEM"/>
+            <p7 i="318" n="C25/30"/>
+            <p8 v="0" t="Isotropic"/>
+            <p9 v="0" t="none"/>
+            <p10 v="0" t="constant"/>
+            <p11 v="0.20000000000000001"/>
+            <p12 v="1" t="Centre"/>
+            <p13 v="0"/>
+            <p14 v="0" t="Standard"/>
+            <p15 v="0"/>
+            <p16 v="0"/>
+            <p17 v="1" t="Manual"/>
+            <p18 v="0" t="according to member"/>
+            <p19 v="111"/>
+            <p20 v="9" t="default"/>
+            <p21 v="0"/>
+            <p22 v="0" t="Whole member"/>
+            <p23 v="36"/>
+            <p24 v="0"/>
+            <p25 t="">
+            <h>
+            <h0 t="Closed curve"/>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1"/>
+            <p1 i="14" n="N14"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="18" n="N18"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p1 i="17" n="N17"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p1 i="13" n="N13"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            </p25></obj>
+         
+         <obj id="5" nm="S5">
+            <p0 t="">
+            <h>
+            <h0 t="Index"/>
+            <h1 t="Node"/>
+            </h>
+            <row id="1">
+            <p0 v="1"/>
+            <p1 i="27" n="N27"/>
+            </row>
+            </p0>
+            <p1 v="S5"/>
+            <p2 v="{DC64C3A2-C88A-4A1B-B45C-33BE9B744705}"/>
+            <p3 i="1" n="Layer1"/>
+            <p4 v="0" t="plate (111)"/>
+            <p5 v="1" t="Standard"/>
+            <p6 v="0" t="Standard FEM"/>
+            <p7 i="318" n="C25/30"/>
+            <p8 v="0" t="Isotropic"/>
+            <p9 v="0" t="none"/>
+            <p10 v="0" t="constant"/>
+            <p11 v="0.20000000000000001"/>
+            <p12 v="1" t="Centre"/>
+            <p13 v="0"/>
+            <p14 v="0" t="Standard"/>
+            <p15 v="0"/>
+            <p16 v="0"/>
+            <p17 v="1" t="Manual"/>
+            <p18 v="0" t="according to member"/>
+            <p19 v="111"/>
+            <p20 v="9" t="default"/>
+            <p21 v="0"/>
+            <p22 v="0" t="Whole member"/>
+            <p23 v="36"/>
+            <p24 v="0"/>
+            <p25 t="">
+            <h>
+            <h0 t="Closed curve"/>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1"/>
+            <p1 i="22" n="N22"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="19" n="N19"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p1 i="20" n="N20"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p1 i="21" n="N21"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            </p25></obj>
+         
+         <obj id="6" nm="S6">
+            <p0 t="">
+            <h/>
+            </p0>
+            <p1 v="S6"/>
+            <p2 v="{63346977-2F6E-4AC5-A0D5-891915060F7B}"/>
+            <p3 i="1" n="Layer1"/>
+            <p4 v="0" t="plate (111)"/>
+            <p5 v="1" t="Standard"/>
+            <p6 v="0" t="Standard FEM"/>
+            <p7 i="318" n="C25/30"/>
+            <p8 v="0" t="Isotropic"/>
+            <p9 v="0" t="none"/>
+            <p10 v="0" t="constant"/>
+            <p11 v="0.20000000000000001"/>
+            <p12 v="1" t="Centre"/>
+            <p13 v="0"/>
+            <p14 v="0" t="Standard"/>
+            <p15 v="0"/>
+            <p16 v="0"/>
+            <p17 v="1" t="Manual"/>
+            <p18 v="0" t="according to member"/>
+            <p19 v="111"/>
+            <p20 v="9" t="default"/>
+            <p21 v="0"/>
+            <p22 v="0" t="Whole member"/>
+            <p23 v="36"/>
+            <p24 v="0"/>
+            <p25 t="">
+            <h>
+            <h0 t="Closed curve"/>
+            <h1 t="Node"/>
+            <h2 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1"/>
+            <p1 i="20" n="N20"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p1 i="24" n="N24"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p1 i="23" n="N23"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p1 i="19" n="N19"/>
+            <p2 v="0" t="Line"/>
+            </row>
+            </p25></obj>
+      </table>
+   </container>
+   
+   <container id="{F8371A21-F459-11D4-94D3-000000000000}" t="DataAddLoad.EP_PointForcePoint.1">
+      <table id="382099FF-F185-49A7-9CB5-42E36547BFFF" t="DataAddLoad.EP_PointForcePoint.1" name="Point forces in node">
+         <h>
+            <h0 t="Name"/>
+            <h1 t="Load case"/>
+            <h2 t="Reference Table"/>
+            <h3 t="Direction"/>
+            <h4 t="Type"/>
+            <h5 t="Value - F"/>
+            <h6 t="System"/></h>
+         <obj id="1" nm="F1">
+            <p0 v="F1"/>
+            <p1 i="5" n="LC5"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{39A7F468-A0D4-4DFF-8E5C-5843E1807D13}"/>
+            <p1 v="EP_DSG_Elements.EP_StructNode.1"/>
+            <p2 v="N25"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="-20000"/>
+            <p6 v="0" t="GCS"/></obj>
+         
+         <obj id="2" nm="F2">
+            <p0 v="F2"/>
+            <p1 i="5" n="LC5"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{39A7F468-A0D4-4DFF-8E5C-5843E1807D13}"/>
+            <p1 v="EP_DSG_Elements.EP_StructNode.1"/>
+            <p2 v="N27"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="-20000"/>
+            <p6 v="0" t="GCS"/></obj>
+         
+         <obj id="3" nm="F3">
+            <p0 v="F3"/>
+            <p1 i="5" n="LC5"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{39A7F468-A0D4-4DFF-8E5C-5843E1807D13}"/>
+            <p1 v="EP_DSG_Elements.EP_StructNode.1"/>
+            <p2 v="N26"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="-20000"/>
+            <p6 v="0" t="GCS"/></obj>
+         
+         <obj id="4" nm="F4">
+            <p0 v="F4"/>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{39A7F468-A0D4-4DFF-8E5C-5843E1807D13}"/>
+            <p1 v="EP_DSG_Elements.EP_StructNode.1"/>
+            <p2 v="N25"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="-20000"/>
+            <p6 v="0" t="GCS"/></obj>
+         
+         <obj id="9" nm="F9">
+            <p0 v="F9"/>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{39A7F468-A0D4-4DFF-8E5C-5843E1807D13}"/>
+            <p1 v="EP_DSG_Elements.EP_StructNode.1"/>
+            <p2 v="N26"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="-20000"/>
+            <p6 v="0" t="GCS"/></obj>
+         
+         <obj id="11" nm="F11">
+            <p0 v="F11"/>
+            <p1 i="9" n="Phase 3b - Finitions 03"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{39A7F468-A0D4-4DFF-8E5C-5843E1807D13}"/>
+            <p1 v="EP_DSG_Elements.EP_StructNode.1"/>
+            <p2 v="N27"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="-20000"/>
+            <p6 v="0" t="GCS"/></obj>
+      <obj id="12" nm="F1_auto">
+            <p0 v="F1_auto"/>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{39A7F468-A0D4-4DFF-8E5C-5843E1807D13}"/>
+            <p1 v="EP_DSG_Elements.EP_StructNode.1"/>
+            <p2 v="N25"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="-20000"/>
+            <p6 v="0" t="GCS"/></obj>
+         
+         <obj id="13" nm="F3_auto">
+            <p0 v="F3_auto"/>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{39A7F468-A0D4-4DFF-8E5C-5843E1807D13}"/>
+            <p1 v="EP_DSG_Elements.EP_StructNode.1"/>
+            <p2 v="N26"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="-20000"/>
+            <p6 v="0" t="GCS"/></obj>
+         
+         <deleteobj id="4" nm="F4"/><deleteobj id="9" nm="F9"/></table>
+   </container>
+   
+   <container id="{BC16B3C6-F464-11D4-94D3-000000000000}" t="DataAddLoad.EP_LineForceLine.1">
+      <table id="580B117F-DB53-4A18-A860-A6FEFE231F53" t="DataAddLoad.EP_LineForceLine.1" name="Line forces on beam">
+         <h>
+            <h0 t="Name"/>
+            <h1 t="Load case"/>
+            <h2 t="Reference Table"/>
+            <h3 t="Direction"/>
+            <h4 t="Type"/>
+            <h5 t="Distribution"/>
+            <h6 t="Value - P@1"/>
+            <h7 t="Load above joint"/>
+            <h8 t="System"/>
+            <h9 t="Location"/>
+            <h10 t="Position x1"/>
+            <h11 t="Position x2"/>
+            <h12 t="Coord. definition"/>
+            <h13 t="Origin"/>
+            <h14 t="Eccentricity ey"/>
+            <h15 t="Eccentricity ez"/></h>
+         <obj id="1" nm="LF1">
+            <p0 v="LF1"/>
+            <p1 i="6" n="LC6"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B19"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-4000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="2" nm="LF2">
+            <p0 v="LF2"/>
+            <p1 i="6" n="LC6"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B27"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-4000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="3" nm="LF3">
+            <p0 v="LF3"/>
+            <p1 i="6" n="LC6"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B23"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-4000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="4" nm="LF4">
+            <p0 v="LF4"/>
+            <p1 i="6" n="LC6"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B21"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="5" nm="LF5">
+            <p0 v="LF5"/>
+            <p1 i="6" n="LC6"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B20"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="6" nm="LF6">
+            <p0 v="LF6"/>
+            <p1 i="6" n="LC6"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B24"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="7" nm="LF7">
+            <p0 v="LF7"/>
+            <p1 i="6" n="LC6"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B25"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="8" nm="LF8">
+            <p0 v="LF8"/>
+            <p1 i="6" n="LC6"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B26"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="9" nm="LF9">
+            <p0 v="LF9"/>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B19"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-4000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="14" nm="LF14">
+            <p0 v="LF14"/>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B24"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="15" nm="LF15">
+            <p0 v="LF15"/>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B25"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="19" nm="LF19">
+            <p0 v="LF19"/>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B23"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-4000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="21" nm="LF21">
+            <p0 v="LF21"/>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B20"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="24" nm="LF24">
+            <p0 v="LF24"/>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B26"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="26" nm="LF26">
+            <p0 v="LF26"/>
+            <p1 i="9" n="Phase 3b - Finitions 03"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B27"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-4000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="28" nm="LF28">
+            <p0 v="LF28"/>
+            <p1 i="9" n="Phase 3b - Finitions 03"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B21"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+      <obj id="29" nm="LF1_auto">
+            <p0 v="LF1_auto"/>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B19"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-4000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="30" nm="LF6_auto">
+            <p0 v="LF6_auto"/>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B24"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="31" nm="LF7_auto">
+            <p0 v="LF7_auto"/>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B25"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="32" nm="LF3_auto">
+            <p0 v="LF3_auto"/>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B23"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-4000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="33" nm="LF5_auto">
+            <p0 v="LF5_auto"/>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B20"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <obj id="34" nm="LF8_auto">
+            <p0 v="LF8_auto"/>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{ECB5D684-7357-11D4-9F6C-00104BC3B443}"/>
+            <p1 v="EP_DSG_Elements.EP_Beam.1"/>
+            <p2 v="B26"/>
+            </row>
+            </p2>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-6000"/>
+            <p7 v="0"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="0"/>
+            <p15 v="0"/></obj>
+         
+         <deleteobj id="9" nm="LF9"/><deleteobj id="14" nm="LF14"/><deleteobj id="15" nm="LF15"/><deleteobj id="19" nm="LF19"/><deleteobj id="21" nm="LF21"/><deleteobj id="24" nm="LF24"/></table>
+   </container>
+   
+   <container id="{BC16B3C8-F464-11D4-94D3-000000000000}" t="DataAddLoad.EP_LineForceSurface.1">
+      <table id="0FC5287E-6DE5-46C0-BBA1-8C0FAF8470D8" t="DataAddLoad.EP_LineForceSurface.1" name="Line forces on 2D member edge">
+         <h>
+            <h0 t="Reference Table"/>
+            <h1 t="Load case"/>
+            <h2 t="Name"/>
+            <h3 t="UniqueID"/>
+            <h4 t="Direction"/>
+            <h5 t="Type"/>
+            <h6 t="Distribution"/>
+            <h7 t="Value - P@1"/>
+            <h8 t="System"/>
+            <h9 t="Location"/>
+            <h10 t="Position x1"/>
+            <h11 t="Position x2"/>
+            <h12 t="Coord. definition"/>
+            <h13 t="Origin"/>
+            <h14 t="Edge"/></h>
+         <obj id="1" nm="LFS1">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="3"/>
+            <p3 v="S3"/>
+            </row>
+            </p0>
+            <p1 i="4" n="LC4"/>
+            <p2 v="LFS1"/>
+            <p3 v="{D62EA47A-14CE-41E1-8E1B-75A38F8F43C3}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="0" t="Uniform"/>
+            <p7 v="-15000"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="3" t="4"/></obj>
+         
+         <obj id="2" nm="LFS2">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="1"/>
+            <p3 v="S1"/>
+            </row>
+            </p0>
+            <p1 i="4" n="LC4"/>
+            <p2 v="LFS2"/>
+            <p3 v="{6317C4B9-FBDC-4BA0-8C9D-3F2562CE2CA2}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="0" t="Uniform"/>
+            <p7 v="-15000"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="1" t="2"/></obj>
+         
+         <obj id="3" nm="LFS3">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="6"/>
+            <p3 v="S6"/>
+            </row>
+            </p0>
+            <p1 i="4" n="LC4"/>
+            <p2 v="LFS3"/>
+            <p3 v="{5B615C4D-B806-4818-B928-2EC86529C4B0}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="0" t="Uniform"/>
+            <p7 v="-15000"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="1" t="2"/></obj>
+         
+         <obj id="5" nm="LFS5">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="1"/>
+            <p3 v="S1"/>
+            </row>
+            </p0>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 v="LFS5"/>
+            <p3 v="{59876369-2CB1-4E89-B989-12D317A3D1CA}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="0" t="Uniform"/>
+            <p7 v="-15000"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="1" t="2"/></obj>
+         
+         <obj id="7" nm="LFS7">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="3"/>
+            <p3 v="S3"/>
+            </row>
+            </p0>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 v="LFS7"/>
+            <p3 v="{6FB467C8-953D-4D82-B1CF-6EBA09B25585}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="0" t="Uniform"/>
+            <p7 v="-15000"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="3" t="4"/></obj>
+         
+         <obj id="12" nm="LFS12">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="6"/>
+            <p3 v="S6"/>
+            </row>
+            </p0>
+            <p1 i="9" n="Phase 3b - Finitions 03"/>
+            <p2 v="LFS12"/>
+            <p3 v="{DB32743A-BD1A-4249-B68E-985D9E43621B}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="0" t="Uniform"/>
+            <p7 v="-15000"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="1" t="2"/></obj>
+      <obj id="13" nm="LFS2_auto">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="1"/>
+            <p3 v="S1"/>
+            </row>
+            </p0>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 v="LFS2_auto"/>
+            <p3 v="{6317C4B9-FBDC-4BA0-8C9D-3F2562CE2CA2}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="0" t="Uniform"/>
+            <p7 v="-15000"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="1" t="2"/></obj>
+         
+         <obj id="14" nm="LFS1_auto">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="3"/>
+            <p3 v="S3"/>
+            </row>
+            </p0>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 v="LFS1_auto"/>
+            <p3 v="{D62EA47A-14CE-41E1-8E1B-75A38F8F43C3}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="0" t="Uniform"/>
+            <p7 v="-15000"/>
+            <p8 v="1" t="LCS"/>
+            <p9 v="0" t="Length"/>
+            <p10 v="0"/>
+            <p11 v="1"/>
+            <p12 v="1" t="Rela"/>
+            <p13 v="0" t="From start"/>
+            <p14 v="3" t="4"/></obj>
+         
+         <deleteobj id="5" nm="LFS5"/><deleteobj id="7" nm="LFS7"/></table>
+   </container>
+   
+   <container id="{F1A8072A-7476-4C66-AB95-27AEE497E75C}" t="DataAddLoad.EP_LineForceFree.1">
+      <table id="C8EF0294-A25C-437B-9238-F2620A098540" t="DataAddLoad.EP_LineForceFree.1" name="Free line loads">
+         <h>
+            <h0 t="Load case"/>
+            <h1 t="Name"/>
+            <h2 t="UniqueID"/>
+            <h3 t="Direction"/>
+            <h4 t="Type"/>
+            <h5 t="Distribution"/>
+            <h6 t="Value - P@1"/>
+            <h7 t="Validity"/>
+            <h8 t="Select"/>
+            <h9 t="System"/>
+            <h10 t="Location"/>
+            <h11 t="Table of geometry"/></h>
+         <obj id="2" nm="FL1">
+            <p0 i="3" n="LC3"/>
+            <p1 v="FL1"/>
+            <p2 v="{08E81DE1-D5C1-4DE0-96D2-8469365AA6BE}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-10000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="0"/>
+            <p3 v="6"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="3" t="End"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="6"/>
+            <p3 v="0"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="3" nm="FL2">
+            <p0 i="3" n="LC3"/>
+            <p1 v="FL2"/>
+            <p2 v="{CA22B0E7-49E0-442D-A83B-9D7B8BD387CB}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-10000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="6"/>
+            <p3 v="6"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="3" t="End"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="12"/>
+            <p3 v="0"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="4" nm="FL3">
+            <p0 i="3" n="LC3"/>
+            <p1 v="FL3"/>
+            <p2 v="{16380B99-4CE4-49C1-91C9-277D594E1D04}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-10000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="0"/>
+            <p3 v="6"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="3" t="End"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="6"/>
+            <p3 v="0"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="7" nm="FL6">
+            <p0 i="7" n="Phase 1b - Finitions 01"/>
+            <p1 v="FL6"/>
+            <p2 v="{C90AC843-07AF-4A02-8572-29084DB6B169}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-10000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="0"/>
+            <p3 v="6"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="3" t="End"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="6"/>
+            <p3 v="0"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="9" nm="FL8">
+            <p0 i="8" n="Phase 2b - Finitions 02"/>
+            <p1 v="FL8"/>
+            <p2 v="{7456543F-3011-4A2F-84EA-BADB36A06DCB}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-10000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="6"/>
+            <p3 v="6"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="3" t="End"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="12"/>
+            <p3 v="0"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="11" nm="FL10">
+            <p0 i="9" n="Phase 3b - Finitions 03"/>
+            <p1 v="FL10"/>
+            <p2 v="{076EB58C-1F92-4A98-B91F-87C3BA257512}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-10000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="0"/>
+            <p3 v="6"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="3" t="End"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="6"/>
+            <p3 v="0"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+      <obj id="12" nm="FL3_auto">
+            <p0 i="7" n="Phase 1b - Finitions 01"/>
+            <p1 v="FL3_auto"/>
+            <p2 v="{16380B99-4CE4-49C1-91C9-277D594E1D04}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-10000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="0"/>
+            <p3 v="6"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="3" t="End"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="6"/>
+            <p3 v="0"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="13" nm="FL2_auto">
+            <p0 i="8" n="Phase 2b - Finitions 02"/>
+            <p1 v="FL2_auto"/>
+            <p2 v="{CA22B0E7-49E0-442D-A83B-9D7B8BD387CB}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-10000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="6"/>
+            <p3 v="6"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="3" t="End"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="12"/>
+            <p3 v="0"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <deleteobj id="7" nm="FL6"/><deleteobj id="9" nm="FL8"/></table>
+   </container>
+   
+   <container id="{78ECA9E6-4F0B-4038-AAC7-37509354FCDC}" t="DataAddLoad.8.00.EP_GeneratedForceSur.1">
+      <table id="58C371E7-6B17-4791-9BEB-3BC88B9F2D83" t="DataAddLoad.8.00.EP_GeneratedForceSur.1" name="Generated free loads">
+         <h>
+            <h0 t="Reference Table"/>
+            <h1 t="Load case"/>
+            <h2 t="Name"/>
+            <h3 t="UniqueID"/>
+            <h4 t="Direction"/>
+            <h5 t="Type"/>
+            <h6 t="Distribution"/>
+            <h7 t="Type load"/>
+            <h8 t="Original Load"/>
+            <h9 t="Value - P"/>
+            <h10 t="System"/>
+            <h11 t="Location"/></h>
+         <obj id="1" nm="GFF1">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="5"/>
+            <p3 v="S5"/>
+            </row>
+            </p0>
+            <p1 i="3" n="LC3"/>
+            <p2 v="GFF1"/>
+            <p3 v="{BFF3528B-18E3-44C2-B330-290D5C7E2E33}"/>
+            <p4 v="Z"/>
+            <p5 v="Force"/>
+            <p6 v="Uniform"/>
+            <p7 v="Line"/>
+            <p8 v="FL1"/>
+            <p9 v="-10000"/>
+            <p10 v="0" t="GCS"/>
+            <p11 v="0" t="Length"/></obj>
+         
+         <obj id="2" nm="GFF2">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="4"/>
+            <p3 v="S4"/>
+            </row>
+            </p0>
+            <p1 i="3" n="LC3"/>
+            <p2 v="GFF2"/>
+            <p3 v="{172D86FA-D539-458F-A582-E968F716F723}"/>
+            <p4 v="Z"/>
+            <p5 v="Force"/>
+            <p6 v="Uniform"/>
+            <p7 v="Line"/>
+            <p8 v="FL2"/>
+            <p9 v="-10000"/>
+            <p10 v="0" t="GCS"/>
+            <p11 v="0" t="Length"/></obj>
+         
+         <obj id="3" nm="GFF3">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="5"/>
+            <p3 v="S5"/>
+            </row>
+            </p0>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 v="GFF3"/>
+            <p3 v="{107FE67E-408C-417D-9FD0-ACC1B44251CA}"/>
+            <p4 v="Z"/>
+            <p5 v="Force"/>
+            <p6 v="Uniform"/>
+            <p7 v="Line"/>
+            <p8 v="FL1"/>
+            <p9 v="-10000"/>
+            <p10 v="0" t="GCS"/>
+            <p11 v="0" t="Length"/></obj>
+         
+         <obj id="4" nm="GFF4">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="4"/>
+            <p3 v="S4"/>
+            </row>
+            </p0>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 v="GFF4"/>
+            <p3 v="{0E7A03F8-FB79-4A78-9C24-D8AC6BC8A8C4}"/>
+            <p4 v="Z"/>
+            <p5 v="Force"/>
+            <p6 v="Uniform"/>
+            <p7 v="Line"/>
+            <p8 v="FL2"/>
+            <p9 v="-10000"/>
+            <p10 v="0" t="GCS"/>
+            <p11 v="0" t="Length"/></obj>
+         
+         <obj id="5" nm="GFF5">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="5"/>
+            <p3 v="S5"/>
+            </row>
+            </p0>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 v="GFF5"/>
+            <p3 v="{FC1ED340-B4B8-4F46-89E6-B8C3E1A39B6A}"/>
+            <p4 v="Z"/>
+            <p5 v="Force"/>
+            <p6 v="Uniform"/>
+            <p7 v="Line"/>
+            <p8 v="FL1"/>
+            <p9 v="-10000"/>
+            <p10 v="0" t="GCS"/>
+            <p11 v="0" t="Length"/></obj>
+         
+         <obj id="6" nm="GFF6">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="4"/>
+            <p3 v="S4"/>
+            </row>
+            </p0>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 v="GFF6"/>
+            <p3 v="{85A2B288-C2CD-4232-BA88-C601D37BD4E4}"/>
+            <p4 v="Z"/>
+            <p5 v="Force"/>
+            <p6 v="Uniform"/>
+            <p7 v="Line"/>
+            <p8 v="FL2"/>
+            <p9 v="-10000"/>
+            <p10 v="0" t="GCS"/>
+            <p11 v="0" t="Length"/></obj>
+         
+         <obj id="7" nm="GFF7">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="5"/>
+            <p3 v="S5"/>
+            </row>
+            </p0>
+            <p1 i="9" n="Phase 3b - Finitions 03"/>
+            <p2 v="GFF7"/>
+            <p3 v="{6098B51B-39FA-4B03-98B5-DCF9AD868EFB}"/>
+            <p4 v="Z"/>
+            <p5 v="Force"/>
+            <p6 v="Uniform"/>
+            <p7 v="Line"/>
+            <p8 v="FL1"/>
+            <p9 v="-10000"/>
+            <p10 v="0" t="GCS"/>
+            <p11 v="0" t="Length"/></obj>
+         
+         <obj id="8" nm="GFF8">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="4"/>
+            <p3 v="S4"/>
+            </row>
+            </p0>
+            <p1 i="9" n="Phase 3b - Finitions 03"/>
+            <p2 v="GFF8"/>
+            <p3 v="{61E77BA6-E90D-4E09-AAB8-6B1B8C103AF1}"/>
+            <p4 v="Z"/>
+            <p5 v="Force"/>
+            <p6 v="Uniform"/>
+            <p7 v="Line"/>
+            <p8 v="FL2"/>
+            <p9 v="-10000"/>
+            <p10 v="0" t="GCS"/>
+            <p11 v="0" t="Length"/></obj>
+      <obj id="9" nm="GFF2_auto">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="4"/>
+            <p3 v="S4"/>
+            </row>
+            </p0>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 v="GFF2_auto"/>
+            <p3 v="{172D86FA-D539-458F-A582-E968F716F723}"/>
+            <p4 v="Z"/>
+            <p5 v="Force"/>
+            <p6 v="Uniform"/>
+            <p7 v="Line"/>
+            <p8 v="FL2"/>
+            <p9 v="-10000"/>
+            <p10 v="0" t="GCS"/>
+            <p11 v="0" t="Length"/></obj>
+         
+         <deleteobj id="4" nm="GFF4"/><deleteobj id="6" nm="GFF6"/><deleteobj id="3" nm="GFF3"/><deleteobj id="5" nm="GFF5"/></table>
+   </container>
+   
+   <container id="{3E5FFA16-D1A4-4589-AD5A-4A0FC555E8B8}" t="DataAddLoad.EP_SurfaceForceFree.1">
+      <table id="BF3926F6-D1F3-481F-9BF4-3A0726E35F9C" t="DataAddLoad.EP_SurfaceForceFree.1" name="Free surface load">
+         <h>
+            <h0 t="Load case"/>
+            <h1 t="Name"/>
+            <h2 t="UniqueID"/>
+            <h3 t="Direction"/>
+            <h4 t="Type"/>
+            <h5 t="Distribution"/>
+            <h6 t="q"/>
+            <h7 t="Validity"/>
+            <h8 t="Select"/>
+            <h9 t="System"/>
+            <h10 t="Location"/>
+            <h11 t="Table of geometry"/></h>
+         <obj id="1" nm="FF1">
+            <p0 i="2" n="LC2"/>
+            <p1 v="FF1"/>
+            <p2 v="{E982303D-90D1-4FD3-AD21-9688C41A5C36}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-8000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="6"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="0"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="0"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="6"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="2" nm="FF2">
+            <p0 i="2" n="LC2"/>
+            <p1 v="FF2"/>
+            <p2 v="{9AA40392-CC54-4D2F-9074-1D20519A6C1D}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-8000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="6"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="0"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="0"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="6"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="3" nm="FF3">
+            <p0 i="2" n="LC2"/>
+            <p1 v="FF3"/>
+            <p2 v="{EBCC9508-B1AE-4DFC-A606-EC792972FFC3}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-8000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="6"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="0"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="0"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="6"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="6" nm="FF6">
+            <p0 i="7" n="Phase 1b - Finitions 01"/>
+            <p1 v="FF6"/>
+            <p2 v="{1F8BE8FD-7790-499D-82D4-B1E0CCFFE0E7}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-8000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="6"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="0"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="0"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="6"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="7" nm="FF7">
+            <p0 i="8" n="Phase 2b - Finitions 02"/>
+            <p1 v="FF7"/>
+            <p2 v="{A5414AB2-28A0-4F30-9319-6F98E8E9B2E2}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-8000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="6"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="0"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="0"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="6"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="11" nm="FF11">
+            <p0 i="9" n="Phase 3b - Finitions 03"/>
+            <p1 v="FF11"/>
+            <p2 v="{7F4F8287-DF5B-4087-BBE8-FF2BA7DE1BEF}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-8000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="6"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="0"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="0"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="6"/>
+            <p4 v="10.800000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+      <obj id="12" nm="FF3_auto">
+            <p0 i="7" n="Phase 1b - Finitions 01"/>
+            <p1 v="FF3_auto"/>
+            <p2 v="{EBCC9508-B1AE-4DFC-A606-EC792972FFC3}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-8000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="6"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="0"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="0"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="6"/>
+            <p4 v="3.6000000000000001"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <obj id="13" nm="FF1_auto">
+            <p0 i="8" n="Phase 2b - Finitions 02"/>
+            <p1 v="FF1_auto"/>
+            <p2 v="{E982303D-90D1-4FD3-AD21-9688C41A5C36}"/>
+            <p3 v="2" t="Z"/>
+            <p4 v="0" t="Force"/>
+            <p5 v="0" t="Uniform"/>
+            <p6 v="-8000"/>
+            <p7 v="4" t="Z=0"/>
+            <p8 v="0" t="Auto"/>
+            <p9 v="0" t="GCS"/>
+            <p10 v="0" t="Length"/>
+            <p11 t="">
+            <h>
+            <h0 t="Node"/>
+            <h1 t="Point definition"/>
+            <h2 t="Coord X"/>
+            <h3 t="Coord Y"/>
+            <h4 t="Coord Z"/>
+            <h22 t="Edge"/>
+            </h>
+            <row id="0">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="6"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="1">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="3"/>
+            <p3 v="0"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="2">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="0"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            <row id="3">
+            <p0 v="1" t="Head"/>
+            <p1 v="0" t="Standard"/>
+            <p2 v="9"/>
+            <p3 v="6"/>
+            <p4 v="7.2000000000000002"/>
+            <p22 v="0" t="Line"/>
+            </row>
+            </p11></obj>
+         
+         <deleteobj id="6" nm="FF6"/><deleteobj id="7" nm="FF7"/></table>
+   </container>
+   
+   <container id="{BC16B3CA-F464-11D4-94D3-000000000000}" t="DataAddLoad.EP_SurfaceForceSurface.1">
+      <table id="6F984645-D855-4793-8E07-774E4AEFC11D" t="DataAddLoad.EP_SurfaceForceSurface.1" name="Forces on surface">
+         <h>
+            <h0 t="Reference Table"/>
+            <h1 t="Load case"/>
+            <h2 t="Name"/>
+            <h3 t="UniqueID"/>
+            <h4 t="Direction"/>
+            <h5 t="Type"/>
+            <h6 t="Value"/>
+            <h7 t="System"/>
+            <h8 t="Location"/></h>
+         <obj id="1" nm="SF1">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="1"/>
+            <p3 v="S1"/>
+            </row>
+            </p0>
+            <p1 i="2" n="LC2"/>
+            <p2 v="SF1"/>
+            <p3 v="{D295BF54-5A3B-4B62-80C5-5CEAA9944E51}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="2" nm="SF2">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="2"/>
+            <p3 v="S2"/>
+            </row>
+            </p0>
+            <p1 i="2" n="LC2"/>
+            <p2 v="SF2"/>
+            <p3 v="{B516AD96-A2E7-4499-83E8-6323DBDC09DC}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="3" nm="SF3">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="4"/>
+            <p3 v="S4"/>
+            </row>
+            </p0>
+            <p1 i="2" n="LC2"/>
+            <p2 v="SF3"/>
+            <p3 v="{2E65A5DB-C751-46D4-BF5F-5D570E705FBE}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="4" nm="SF4">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="3"/>
+            <p3 v="S3"/>
+            </row>
+            </p0>
+            <p1 i="2" n="LC2"/>
+            <p2 v="SF4"/>
+            <p3 v="{E981F9EF-3231-455F-933C-E94FC188169E}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="5" nm="SF5">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="5"/>
+            <p3 v="S5"/>
+            </row>
+            </p0>
+            <p1 i="2" n="LC2"/>
+            <p2 v="SF5"/>
+            <p3 v="{668BFB92-E670-4EC5-9DEE-F65905B8BF92}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="6" nm="SF6">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="6"/>
+            <p3 v="S6"/>
+            </row>
+            </p0>
+            <p1 i="2" n="LC2"/>
+            <p2 v="SF6"/>
+            <p3 v="{E4C63797-D88E-4042-8893-4800A9680D81}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="7" nm="SF7">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="1"/>
+            <p3 v="S1"/>
+            </row>
+            </p0>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 v="SF7"/>
+            <p3 v="{52FFDBA9-E05C-4651-8D97-8F1C86C2C0C5}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="8" nm="SF8">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="2"/>
+            <p3 v="S2"/>
+            </row>
+            </p0>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 v="SF8"/>
+            <p3 v="{E7FF709C-D0DC-463E-A9C2-CD5329AC4EAC}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="15" nm="SF15">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="4"/>
+            <p3 v="S4"/>
+            </row>
+            </p0>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 v="SF15"/>
+            <p3 v="{6602E0C6-F037-49B1-B49C-AC3A54386638}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="16" nm="SF16">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="3"/>
+            <p3 v="S3"/>
+            </row>
+            </p0>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 v="SF16"/>
+            <p3 v="{DB9BB822-4F12-4D5D-97D3-91442AF8DFE2}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="23" nm="SF23">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="5"/>
+            <p3 v="S5"/>
+            </row>
+            </p0>
+            <p1 i="9" n="Phase 3b - Finitions 03"/>
+            <p2 v="SF23"/>
+            <p3 v="{161BEEBA-ADD9-4C7A-BF0D-1880A3CD05C7}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="24" nm="SF24">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="6"/>
+            <p3 v="S6"/>
+            </row>
+            </p0>
+            <p1 i="9" n="Phase 3b - Finitions 03"/>
+            <p2 v="SF24"/>
+            <p3 v="{8C1D31E3-411D-446A-AFAE-5401C4BFA12C}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+      <obj id="25" nm="SF1_auto">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="1"/>
+            <p3 v="S1"/>
+            </row>
+            </p0>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 v="SF1_auto"/>
+            <p3 v="{D295BF54-5A3B-4B62-80C5-5CEAA9944E51}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="26" nm="SF2_auto">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="2"/>
+            <p3 v="S2"/>
+            </row>
+            </p0>
+            <p1 i="7" n="Phase 1b - Finitions 01"/>
+            <p2 v="SF2_auto"/>
+            <p3 v="{B516AD96-A2E7-4499-83E8-6323DBDC09DC}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="27" nm="SF3_auto">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="4"/>
+            <p3 v="S4"/>
+            </row>
+            </p0>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 v="SF3_auto"/>
+            <p3 v="{2E65A5DB-C751-46D4-BF5F-5D570E705FBE}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <obj id="28" nm="SF4_auto">
+            <p0 t="">
+            <h>
+            <h0 t="Member Type"/>
+            <h1 t="Member Type Name"/>
+            <h2 t="Member Id"/>
+            <h3 t="Member Name"/>
+            </h>
+            <row id="0">
+            <p0 v="{8708ED31-8E66-11D4-AD94-F6F5DE2BE344}"/>
+            <p1 v="EP_DSG_Elements.EP_Plane.1"/>
+            <p2 v="3"/>
+            <p3 v="S3"/>
+            </row>
+            </p0>
+            <p1 i="8" n="Phase 2b - Finitions 02"/>
+            <p2 v="SF4_auto"/>
+            <p3 v="{E981F9EF-3231-455F-933C-E94FC188169E}"/>
+            <p4 v="2" t="Z"/>
+            <p5 v="0" t="Force"/>
+            <p6 v="-4000"/>
+            <p7 v="1" t="LCS"/>
+            <p8 v="0" t="Length"/></obj>
+         
+         <deleteobj id="7" nm="SF7"/><deleteobj id="8" nm="SF8"/><deleteobj id="15" nm="SF15"/><deleteobj id="16" nm="SF16"/></table>
+   </container>
+   
+   <container id="{0908D21F-481F-11D4-AB84-00C06C452330}" t="DataSetScia.EP_LoadCase.1">
+      <table id="430133E6-A72D-4A38-A691-E37603626B35" t="DataSetScia.EP_LoadCase.1" name="Load cases">
+         <h>
+            <h0 t="Name"/>
+            <h1 t="UniqueID"/>
+            <h2 t="Action type"/>
+            <h3 t="Description"/>
+            <h4 t="Load group"/>
+            <h5 t="Load type"/>
+            <h6 t="Direction"/></h>
+         <obj id="1" nm="LC1">
+            <p0 v="LC1"/>
+            <p1 v="{4AFA9347-9FCB-4D55-8335-6213566D839A}"/>
+            <p2 v="0" t="Permanent"/>
+            <p3 v="Self weight"/>
+            <p4 i="1" n="LG1"/>
+            <p5 v="0" t="Self weight"/>
+            <p6 v="0" t="-Z"/></obj>
+         
+         <obj id="2" nm="LC2">
+            <p0 v="LC2"/>
+            <p1 v="{7F743EFC-3CE2-4B01-975C-31B3DCF0DC81}"/>
+            <p2 v="0" t="Permanent"/>
+            <p3 v="Perm Add (Surface loads + Free)"/>
+            <p4 i="1" n="LG1"/>
+            <p5 v="1" t="Standard"/></obj>
+         
+         <obj id="3" nm="LC3">
+            <p0 v="LC3"/>
+            <p1 v="{7A62C96E-437B-46A0-87A5-B3F997F75C1A}"/>
+            <p2 v="0" t="Permanent"/>
+            <p3 v="Perm Add - Ma&#231;onneries (free line loads)"/>
+            <p4 i="1" n="LG1"/>
+            <p5 v="1" t="Standard"/></obj>
+         
+         <obj id="4" nm="LC4">
+            <p0 v="LC4"/>
+            <p1 v="{4239FF5C-13CA-41A5-B29A-B3DCEFAB42D5}"/>
+            <p2 v="0" t="Permanent"/>
+            <p3 v="Perm Add - Stairs (2D member edge loads)"/>
+            <p4 i="1" n="LG1"/>
+            <p5 v="1" t="Standard"/></obj>
+         
+         <obj id="5" nm="LC5">
+            <p0 v="LC5"/>
+            <p1 v="{95A4895A-20BE-4B7A-A0F4-9C0837E40272}"/>
+            <p2 v="0" t="Permanent"/>
+            <p3 v="Perm Add - Nacelles (point loads)"/>
+            <p4 i="1" n="LG1"/>
+            <p5 v="1" t="Standard"/></obj>
+         
+         <obj id="6" nm="LC6">
+            <p0 v="LC6"/>
+            <p1 v="{0328B82A-6B7D-46FB-BE4B-89D2D6D78C20}"/>
+            <p2 v="0" t="Permanent"/>
+            <p3 v="Perm Add - Fa&#231;ades (line on 1D members)"/>
+            <p4 i="1" n="LG1"/>
+            <p5 v="1" t="Standard"/></obj>
+         
+         <obj id="7" nm="Phase 1b - Finitions 01">
+            <p0 v="Phase 1b - Finitions 01"/>
+            <p1 v="{E8353BD1-25D4-4393-B550-126B307A7842}"/>
+            <p2 v="0" t="Permanent"/>
+            <p3 v=""/>
+            <p4 i="1" n="LG1"/>
+            <p5 v="1" t="Standard"/></obj>
+         
+         <obj id="8" nm="Phase 2b - Finitions 02">
+            <p0 v="Phase 2b - Finitions 02"/>
+            <p1 v="{97FC35A5-C063-423B-843A-7A1395BB0481}"/>
+            <p2 v="0" t="Permanent"/>
+            <p3 v=""/>
+            <p4 i="1" n="LG1"/>
+            <p5 v="1" t="Standard"/></obj>
+         
+         <obj id="9" nm="Phase 3b - Finitions 03">
+            <p0 v="Phase 3b - Finitions 03"/>
+            <p1 v="{4A1A4A82-D859-47D1-9BF6-29072ABA7E8F}"/>
+            <p2 v="0" t="Permanent"/>
+            <p3 v=""/>
+            <p4 i="1" n="LG1"/>
+            <p5 v="1" t="Standard"/></obj>
+      </table>
+   </container>
+</project>
