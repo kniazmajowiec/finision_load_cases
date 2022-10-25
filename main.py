@@ -14,8 +14,8 @@ if __name__ == '__main__':
     sys.excepthook = show_exception_and_exit
     _xml, xl_file = ask_for_input_files()
 
-    # _xml = r'C:\Users\mwozniak\Downloads\TTRI - REV 3.58 - Copy (1).xml'
-    # xl_file = r'C:\Users\mwozniak\Downloads\FinitionsScriptTest.xlsx'
+    # _xml = r'C:\Users\mwozniak\OneDrive - BESIX\Desktop\Tour Triangle\Finision load cases\initial test data\second.xml'
+    # xl_file = r'C:\Users\mwozniak\OneDrive - BESIX\Desktop\Tour Triangle\Finision load cases\initial test data\FinitionsScriptTest.xlsx'
 
     root = get_root_from_xml_path(_xml)
 
@@ -23,7 +23,11 @@ if __name__ == '__main__':
     print('Getting Geometrical data')
     dfn = get_all_nodes(root)  # Nodes
     dfb = get_all_beams(root)  # 1D Members
+    dfe = get_all_internal_edges(root)  # internal edges
     dfs = get_all_slabs(root)  # 2D Members
+
+    # join edges and slabs together that's why edges are called Slab in DF
+    dfs = pd.concat([dfs, dfe], ignore_index=True)
     # get all load cases
     print('Getting Load Cases')
     df_lc = get_all_load_cases(root)
@@ -97,6 +101,10 @@ if __name__ == '__main__':
         last_idx = find_max_table_index(root, _table)
         xml_load_dict = get_all_loads_dict_by_var(root, _table)
 
+        # remove all old loads
+        for load in xml_load_dict.values():
+            table.remove(load)
+
         load_type = _table[_table.index('.EP_')+4: -2]
         print()  # stay not ot overwrite previous message
         # loop over loads to be copied
@@ -114,9 +122,20 @@ if __name__ == '__main__':
         for del_dict in df_del:
             table.append(del_element(table, del_dict))
 
+    # remove nodes, members 1D, members 2D & load cases
+    add_tables = ("EP_DSG_Elements.EP_StructNode.1", "EP_DSG_Elements.EP_Beam.1", "EP_DSG_Elements.EP_Plane.1",
+                  "DataSetScia.EP_LoadCase.1", "EP_DSG_Elements.EP_SlabInternalEdge.1")
+
+    # Clean xml to make is smaller by deleting objects that do not need to be updated
+    print("\nRemoving unnecessary data from the xml")
+    for _table in add_tables:
+        table = find_table(root, _table)
+        all_objs = get_all_objs_from_table(root, _table)
+        for obj in all_objs:
+            table.remove(obj)
+
     _xml2 = str(Path(os.path.join(str(Path(_xml).parent), 'new_loads.xml')))
     with open(_xml2, 'w') as f:
         _xml1 = et.tostring(root, pretty_print=True, xml_declaration=True).decode('utf-8')
         f.write(_xml1)
-        print()  # stay not ot overwrite previous message
         print(f'xml saved in :{_xml2}')

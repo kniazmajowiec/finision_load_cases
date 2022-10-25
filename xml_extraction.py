@@ -84,6 +84,18 @@ def get_all_slabs(_root):
     return pd.DataFrame.from_dict(slabs)
 
 
+def get_all_internal_edges(_root):
+    ns = {'s': "http://www.scia.cz"}
+    _table = "EP_DSG_Elements.EP_SlabInternalEdge.1"
+
+    table_geom = which_header_is(_root, _table, "Table of geometry")
+    node = which_header_is_var_in_subtable(_root, _table, table_geom, 'Node')
+
+    int_edges = [{'Slab': el.attrib['nm'], 'Node':el.find(f'./s:p{table_geom}//s:p{node}', namespaces=ns).attrib['n']}
+             for el in _root.findall(f'.//s:table[@t="{_table}"]/s:obj', namespaces=ns)]
+    return pd.DataFrame.from_dict(int_edges)
+
+
 def get_all_load_cases(_root):
     ns = {'s': "http://www.scia.cz"}
     _table = "DataSetScia.EP_LoadCase.1"
@@ -91,6 +103,11 @@ def get_all_load_cases(_root):
     lcs = [{'Load case': obj.attrib['nm'], 'id': obj.attrib['id']}
             for obj in _root.findall(f'.//s:table[@t="{_table}"]/s:obj', namespaces=ns)]
     return pd.DataFrame.from_dict(lcs)
+
+
+def get_all_objs_from_table(_root, _table):
+    ns = {'s': "http://www.scia.cz"}
+    return [el for el in _root.findall(f'.//s:table[@t="{_table}"]/s:obj', namespaces=ns)]
 
 
 def get_all_loads_dict_by_var(_root, _table, var='nm'):
@@ -111,7 +128,7 @@ def df_from_ref_loads(_root, _table, ref_elem):
 
     lc = which_header_is(_root, _table, 'Load case')
     ref_table = which_header_is(_root, _table, 'Reference Table')
-    ref_elem_no = which_header_is_var_in_subtable(_root, _table, ref_table,'Member Name')
+    ref_elem_no = which_header_is_var_in_subtable(_root, _table, ref_table, 'Member Name')
 
     pls = [{'Name': el.attrib['nm'], 'id': el.attrib['id'],
             'LC': el.find(f'./s:p{lc}', namespaces=ns).attrib['n'],
